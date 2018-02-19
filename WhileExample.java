@@ -7,7 +7,7 @@ package whileexample;
 
 /**
  *
- * @author hassouna
+ * taha
  */
 public class WhileExample {
 
